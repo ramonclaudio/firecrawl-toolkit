@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/RMNCLDYO/firecrawl-toolkit" title="Go to repo">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Firecrawl%20Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRMNCLDYO%2Ffirecrawl-toolkit%2Fmain%2F.github%2Fversion.json" alt="Firecrawl Toolkit">
+    <a href="https://github.com/ramonclaudio/firecrawl-toolkit" title="Go to repo">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Firecrawl%20Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Ffirecrawl-toolkit%2Fmain%2F.github%2Fversion.json" alt="Firecrawl Toolkit">
     </a>
 </p>
 
@@ -18,9 +18,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RMNCLDYO/firecrawl-toolkit/main/.github/firecrawl-logo.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RMNCLDYO/firecrawl-toolkit/main/.github/firecrawl-logo.png">
-          <img alt="Firecrawl" width="250" src="https://raw.githubusercontent.com/RMNCLDYO/firecrawl-toolkit/main/.github/firecrawl-logo.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
+          <img alt="Firecrawl" width="250" src="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
         </picture>
     </a>
 </p>
@@ -62,7 +62,7 @@ The Firecrawl Toolkit is the easiest way for developers to interact with web con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RMNCLDYO/firecrawl-toolkit.git
+   git clone https://github.com/ramonclaudio/firecrawl-toolkit.git
    ```
 
 2. Navigate to the repository folder:
@@ -221,7 +221,7 @@ Encountered a bug? We'd love to hear about it. Please follow these steps to repo
 
 1. Check if the issue has already been reported.
 2. Use the [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) template to create a detailed report.
-3. Submit the report [here](https://github.com/RMNCLDYO/firecrawl-toolkit/issues).
+3. Submit the report [here](https://github.com/ramonclaudio/firecrawl-toolkit/issues).
 
 Your report will help us make the project better for everyone.
 
@@ -230,7 +230,7 @@ Got an idea for a new feature? Feel free to suggest it. Here's how:
 
 1. Check if the feature has already been suggested or implemented.
 2. Use the [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) template to create a detailed request.
-3. Submit the request [here](https://github.com/RMNCLDYO/firecrawl-toolkit/issues).
+3. Submit the request [here](https://github.com/ramonclaudio/firecrawl-toolkit/issues).
 
 Your suggestions for improvements are always welcome.
 
