@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="https://github.com/ramonclaudio/firecrawl-toolkit" title="Go to repo">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Firecrawl%20Toolkit&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Ffirecrawl-toolkit%2Fmain%2F.github%2Fversion.json" alt="Firecrawl Toolkit">
     </a>
 </p>
 
@@ -18,9 +17,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
-          <img alt="Firecrawl" width="250" src="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/firecrawl-logo.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/assets/firecrawl-logo.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/assets/firecrawl-logo.png">
+          <img alt="Firecrawl" width="250" src="https://raw.githubusercontent.com/ramonclaudio/firecrawl-toolkit/main/.github/assets/firecrawl-logo.png">
         </picture>
     </a>
 </p>
